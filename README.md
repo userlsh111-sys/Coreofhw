@@ -1,1 +1,1 @@
-Created by a Korean Jr. college student for academic purposes.(course: C)
+All codes were written by the Q2 of 2025.
