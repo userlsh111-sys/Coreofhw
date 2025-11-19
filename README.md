@@ -1,1 +1,2 @@
-Created by a Korean Jr. college student for academic purposes.(course: C) All code was written during the first half of 2025.
+Created by a Korean Jr. college student for academic purposes.(course: C / ref.: 쉽게 풀어쓴 C언어 Express 개정4판, 천인국, 2023 / special thanks to ChatGPT..)<br>
+All code was written during the first half of 2025.
